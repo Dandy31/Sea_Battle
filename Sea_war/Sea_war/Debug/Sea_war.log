@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Sea_war\Sea_war\Source.cpp(265,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\Sea_war\Sea_war\Source.cpp(270,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sea_war.vcxproj -> C:\Users\User\source\repos\Sea_war\Debug\Sea_war.exe
